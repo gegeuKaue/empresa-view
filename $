@@ -1,0 +1,55 @@
+[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"C:/Users/geovane.santos/Desktop/tela/empresa/empresa/.git/COMMIT_EDITMSG" [unix] 22L, 485C[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  $[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Changes[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Maybe[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Nothing[m
+[34m#       [m[32mnew file[m[34m: [m[31m  On[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Untracked[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Your[m
+[34m#       [m[32mnew file[m[34m: [m[31m  empresa[m
+[34m#       [m[32mnew file[m[34m: [m[31m  "modified\357\200\272"[m
+[34m#       [m[32mnew file[m[34m: [m[31m  no[m
+[34m#       [m[32mmodified[m[34m: [m[31m  package-lock.json[m
+[34m#
+# [m[35mUntracked files:[m
+[34m#       [m[31mThe[m
+[34m#       [m[31m"warning\357\200\272"[m
+[34m#[m
+[1m[7mC:/Users/geovane.santos/Desktop/tela/empresa/empresa/.git/COMMIT_EDITMSG [unix] (16:25 06/01/2020)                                               1,0-1 Tudo[1;1H[?25h[?25l[23;73H[+] [unix] (16:25 06/01/2020)[1;1H[?25h[?25l[m[24;1H[1m-- INSERÇÃO --[m[24;15H[K[2;22r[2;1H[16L[1;24r[1;100Has[2;100Ha[3;100Hmirror[4;100Hto[5;100Hpush[6;100Hto[7;100Hor[8;100Hfetch[9;100Hfrom[12;100Hgeovane.santos@CONTW-DES78[13;100HMINGW64[14;100H/c/Users/geovane.santos/Desktop/tela/empresa/empresa[15;100H(master)[16;100H$[23;142H[1m[7m540,16-100 97%[17;100H[m[34m^[m[24;145H^V[17;100H[?25h[?25l[24;147H^V[17;100H [24;145H    [17;100H[34m^V[m[23;147H[1m[7m7-102 [17;102H[?25h[?25l[m[24;1H[K[23;147H[1m[7m6-100 [17;100H[?25h[?25l[m[24;1HDigite  :qa!  e aperte <Enter> para abandonar as alterações e sair do Vim[?5h[?25h[?5l[17;100H[?25l[?25h[?25l[?5h[?25h[?5l[?25l[?25h[?25l[?25h[?25l[?25h[27m[23m[29m[m[H[2J[?25l[2;2Hgeovane.santos@CONTW-DES78 MINGW64
+ /c/Users/geovane.santos/Desktop/tela/empresa/empresa (master)
+ $ $
+ bash: $: command not found
+
+ geovane.santos@CONTW-DES78 MINGW64
+ /c/Users/geovane.santos/Desktop/tela/empresa/empresa (master)
+ $ git remote add origin remote
+ https://github.com/gegeuKaue/empresa-tela.git
+ usage: git remote add [<options>] <name> <url>[13;6H-f, --fetch[11Cfetch the remote branches[14;10H--tags[16Cimport all tags and associated objects[15;10Hwhen fetching[16;36Hor do not fetch any tag at all[17;36H(--no-tags)[18;40H-t, --track <branch>  branch(es)[19;40Hto track[20;44H-m, --master <branch>[21;70Hmaster[22;70Hbranch[23;74H--mirror[=(push|fetch)][24;100Hset[25;100Hup[26;100Hremote[27;100Has[28;100Ha[29;100Hmirror[30;100Hto[31;100Hpush[32;100Hto[33;100Hor[34;100Hfetch[35;100Hfrom[38;100Hgeovane.santos@CONTW-DES78[39;100HMINGW64[40;100H/c/Users/geovane.santos/Desktop/tela/empresa/empresa[41;100H(master)[42;100H$[43;100H[34m^V
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  $[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Changes[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Maybe[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Nothing[m
+[34m#       [m[32mnew file[m[34m: [m[31m  On[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Untracked[m
+[34m#       [m[32mnew file[m[34m: [m[31m  Your[m
+[34m#       [m[32mnew file[m[34m: [m[31m  empresa[m
+[34m#       [m[32mnew file[m[34m: [m[31m  "modified\357\200\272"[m
+[1m[7mC:/Users/geovane.santos/Desktop/tela/empresa/empresa/.git/COMMIT_EDITMSG[+] [unix] (16:25 06/01/2020)                                                                                                              540,16-100 98%[43;100H[?25h[27m[23m[29m[m[H[2J[?25l[1;100Has[2;100Ha[3;100Hmirror[4;100Hto[5;100Hpush[6;100Hto[7;100Hor[8;100Hfetch[9;100Hfrom[12;100Hgeovane.santos@CONTW-DES78[13;100HMINGW64[14;100H/c/Users/geovane.santos/Desktop/tela/empresa/empresa[15;100H(master)[16;100H$[17;100H[34m^V
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# [m[35mChanges to be committed:[m
+[1m[7mC:/Users/geovane.santos/Desktop/tela/empresa/empresa/.git/COMMIT_EDITMSG[+] [unix] (16:25 06/01/2020)                                        540,16-100 97%[17;100H[?25h[?25l[m[24;145H^V[17;100H[24;145H1x2[17;100H[1C[7mV[m[24;1H[1m-- VISUAL/BLOCO --[m[24;145H[K[24;145H1x2[17;100H[?25h[?25l[24;145H^V [17;100H[24;145H  [17;100H[1C[34mV[m[24;1H[K[17;100H[?25h[?25l[24;145Hs[17;100H[24;145H [17;100H[24;145Hcl[17;100H[24;145H  [17;100H[24;1H[1m-- INSERÇÃO --[m[17;100H[K[17;100H[?25h[?25lc[23;147H[1m[7m7-101 [17;101H[?25h[?25l[ms[23;147H[1m[7m8-102 [17;102H[?25h[?25l[ma[23;147H[1m[7m9-103 [17;103H[?25h[?25l[mc[23;146H[1m[7m20-104 [17;104H[?25h[?25l[mas[23;147H[1m[7m2-106 [17;106H[?25h[24;1H[m[?2004l[?1l>[?1049l[23;0;0tVim: Caught deadly signal HUP
+Vim: preserving files...
+Vim: Finished.
+[24;1H[23;2t[23;1t[22;2t[22;1t[23;2t[23;1t

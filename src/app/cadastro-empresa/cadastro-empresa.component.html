@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <h3 class="text-center">Cadastro de Empresa</h3>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Nome:</label>
+                <input type="text" class="form-control" name="pessoa.nome" [(ngModel)]="pessoa.nome" placeholder="Nome">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Email:</label>
+                <input type="text" [(ngModel)]="pessoa.email" (keypress)="email()"  class="form-control" id="email" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">CNPJ:</label>
+                <input type="text" class="form-control" id="cnpj" [(ngModel)]="pessoa.cnpj" placeholder="CNPJ">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">URL:</label>
+                <input type="text" class="form-control" [(ngModel)]="pessoa.url" id="url" placeholder="url">
+            </div>
+            <button type="button" (click)="nome()"  class="btn btn-outline-success btn-block">Cadastrar Empresa</button>
+        </div>
+    </div>
+</div>
